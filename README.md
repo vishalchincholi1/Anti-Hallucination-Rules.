@@ -1,7 +1,12 @@
 
 # Anti-Hallucination LLM Test Generation
 
+[![GitHub stars](https://img.shields.io/github/stars/vishalchincholi1/Anti-Hallucination-Rules.?style=social)](https://github.com/vishalchincholi1/Anti-Hallucination-Rules.)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains guidelines and templates for using Large Language Models (LLMs) to generate software test cases with high precision and zero "hallucinations" (invented or false information).
+
+> **Perfect for QA Teams** using ChatGPT, Claude, Gemini, or other AI tools for test case generation.
 
 ## 📂 Contents
 
