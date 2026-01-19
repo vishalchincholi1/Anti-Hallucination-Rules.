@@ -1,3 +1,4 @@
+
 # Anti-Hallucination LLM Test Generation
 
 This repository contains guidelines and templates for using Large Language Models (LLMs) to generate software test cases with high precision and zero "hallucinations" (invented or false information).
@@ -50,3 +51,4 @@ The LLM will generate a JSON response.
 1.  **Check the `source_reference` field:** Ensure every test case points to a specific part of your text.
 2.  **Check the `missing_information_log`:** If the key is not empty, the LLM has correctly identified gaps in your documentation instead of guessing.
 3.  **Review Placeholders:** Look for `{{UNDEFINED_REFER_TO_PM}}`. These are areas where you need to ask your Product Manager for clarification.
+
